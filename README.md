@@ -4,4 +4,4 @@ Count Lines of Code in Python, and JavaScript Files, works to a degree on other 
 Only tested in PyCharm on Windows. Not extensively tested.
 
 Update: 
-Added a rust version, and remmoved an unused line.
+Added a rust version, and removed an unused line.
