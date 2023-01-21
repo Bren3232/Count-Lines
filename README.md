@@ -5,3 +5,6 @@ Only tested in PyCharm on Windows. Not extensively tested.
 
 Update: 
 Added a rust version, and removed an unused line.
+
+Update Jan 2023:
+Added a c++ version
