@@ -7,4 +7,9 @@ Update:
 Added a rust version, and removed an unused line.
 
 Update Jan 2023:
-Added a c++ version
+Added a c++ version.
+
+Update Feb 12 2023:
+Added a C# version - does not support JavaScript files.
+
+
