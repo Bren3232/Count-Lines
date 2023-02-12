@@ -11,7 +11,7 @@ class Countlines
         int blank_lines = 0;
         bool doc_switch = false;
 
-        string filePath = "C:\\Users\\murph\\Desktop\\cvtools.py";
+        string filePath = "file_path.py";
 
         string comm_symbol = "#";
         
